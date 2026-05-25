@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "6MYQNJN6M2.com.aia.china.YoubangOneAPPUAT",
-        "paths": ["/ul-test/*"]
+        "appID": "TEAMID.com.guoliang.ultest",
+        "paths": [ "/test/*" ]
       }
     ]
   }
