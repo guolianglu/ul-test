@@ -1,13 +1,15 @@
 {
-        "applinks": {
-            "apps": [],
-                    "details": [{ "appID": "4K85C8HM8J.com.aia.china.YoubangOneAPPNewST",
-                    "paths": [ "/kyh-api-st/universal/*", "/kyh-api/universal/*"]
-                },
-                {
-                    "appID": "6MYQNJN6M2.com.aia.china.YoubangOneAPPUAT",
-                    "paths": ["/kyh-api-st/universal/*", "/kyh-api/universal/*"]
-                }
-            ]
-        }
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6MYQNJN6M2.com.guoliang.ULTest",
+        "paths": [
+          "/ul-test/*",
+          "/test/*",
+          "*"
+        ]
+      }
+    ]
+  }
+}
